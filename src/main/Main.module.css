@@ -1,0 +1,20 @@
+.mainBlock{
+    height: 100vh;
+    background-color: beige;
+}
+
+.mainContainer{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text{
+    width: 300px;
+    background-color: azure;
+}
+
+.photo{
+    width: 300px;
+    height: 400px;
+    background-color: #8fdcdc;
+}
